@@ -5,6 +5,6 @@ This is a simple microPython script which reads a plain text file (book.txt) and
 
 Currently each page advances every 5 seconds. In a future version, this will be the default 'demo' mode.
 
-## Future controls (one button marked '>':
+## Future control method - one button marked '>'
 When in demo mode, pressing the button exits demo mode and goes to the next page.
 When not in demo mode, holding down the button for 3 seconds enters demo mode.
